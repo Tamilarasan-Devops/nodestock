@@ -1,3 +1,4 @@
+// Stock Market App
 //Creates an Express application. The express() function is a top-level function exported by the express module.
 
 const express = require("express");
